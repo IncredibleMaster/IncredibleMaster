@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IncredibleMaster/]([https://github.com/sweethappydream](https://github.com/IncredibleMaster/)/)
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Node.Js, Solidity, Web3.js**
+- 💬 Ask me about **React, JavaScript, TypeScript, Node.Js, Solidity, Web3.js, Peak.js, D3.js... | Python/Django/Flask/FastApi | Java/Spring**
 
 - ⚡ Fun fact **I love to code**
 
