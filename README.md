@@ -2,7 +2,7 @@
 <h3 align="center"> ⚡ Full stack Engineer ⚡</h3>
 
 
-- 🔭 I’m currently working with MERN/MEVN/MEAN, Python/Django/Flask Stack
+- 🔭 I’m currently working with MERN/MEVN/MEAN, Laravel Stack
 - 👯 I’m looking to collaborate on Full stack web development
 
 
